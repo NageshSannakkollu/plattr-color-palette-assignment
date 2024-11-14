@@ -1,0 +1,13 @@
+.color-picker-container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.color-picker-main-container{
+    display: flex;  
+}
+.lock-container {
+    margin-top: 50px;
+}
